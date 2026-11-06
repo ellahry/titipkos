@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 340" role="img" aria-label="Kardus dengan topi toga dan penanda lokasi kampung halaman"><title>Kardus dengan topi toga dan penanda lokasi kampung halaman</title><ellipse cx="240" cy="312" rx="170" ry="20" fill="#13203A" opacity=".08"/>
+<polygon points="240.0,55.0 343.9,115.0 257.3,165.0 153.4,105.0" fill="#DDB383" stroke="#13203A" stroke-width="2.6" stroke-linejoin="round" />
+<polygon points="153.4,200.0 257.3,260.0 257.3,165.0 153.4,105.0" fill="#C6935D" stroke="#13203A" stroke-width="2.6" stroke-linejoin="round" />
+<polygon points="343.9,210.0 257.3,260.0 257.3,165.0 343.9,115.0" fill="#A8794A" stroke="#13203A" stroke-width="2.6" stroke-linejoin="round" />
+<polygon points="279.5,77.8 304.4,92.2 217.8,142.2 192.9,127.8" fill="#FFC21A" stroke="#13203A" stroke-width="1.8" stroke-linejoin="round" />
+<polygon points="192.9,127.8 217.8,142.2 217.8,178.3 192.9,163.9" fill="#E5A900" stroke="#13203A" stroke-width="1.8" stroke-linejoin="round" />
+<polygon points="165.9,190.1 210.6,215.9 210.6,183.6 165.9,157.8" fill="#FFFFFF" stroke="#13203A" stroke-width="1.8" stroke-linejoin="round" />
+<line x1="171.2" y1="183.5" x2="203.9" y2="202.3" stroke="#13203A" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="171.2" y1="177.0" x2="194.9" y2="190.7" stroke="#13203A" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="171.2" y1="170.6" x2="194.9" y2="184.3" stroke="#13203A" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M190 86 L190 112 Q240 136 290 112 L290 86" fill="#13203A" stroke="#13203A" stroke-width="2.6" stroke-linejoin="round"/>
+<polygon points="240.0,46.0 320.0,74.0 240.0,102.0 160.0,74.0" fill="#13203A" stroke="#13203A" stroke-width="2.6" stroke-linejoin="round" />
+<path d="M240 74 L305 92 L305 128" fill="none" stroke="#FFC21A" stroke-width="3"/><rect x="299" y="124" width="12" height="20" rx="3" fill="#FFC21A" stroke="#13203A" stroke-width="1.8"/>
+<path d="M400 150 C 372 150, 362 182, 400 232 C 438 182, 428 150, 400 150 Z" fill="#FFC21A" stroke="#13203A" stroke-width="2.6"/><circle cx="400" cy="176" r="10" fill="#FFFFFF" stroke="#13203A" stroke-width="2.2"/></svg>
